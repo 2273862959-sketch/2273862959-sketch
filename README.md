@@ -1,6 +1,8 @@
+<img align="right" src="https://2273862959-sketch.github.io/assets/portrait.jpg" alt="MA JIYU" width="115" />
+
 # MA JIYU · 马济宇
 
-### Learning from data. Building for people.
+### Turning curiosity into things that work.
 
 I explore **machine learning, scientific computing and interactive software**. My projects connect experiments with working applications—from expression recognition to product websites and browser games.
 
